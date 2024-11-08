@@ -132,7 +132,7 @@
     "minecraft:andesite": {
       "text": "Andesite",
       "texture": "minecraft_andesite",
-      "language_id": "tile.cobblestone_wall.andesite.name"
+      "language_id": "tile.stone.andesite.name"
     },
     "minecraft:andesite_slab": {
       "text": "Andesite Slab",
@@ -4902,12 +4902,12 @@
     "minecraft:red_sand": {
       "text": "Red Sand",
       "texture": "minecraft_red_sand",
-      "language_id": "tile.cobblestone_wall.red_sandstone.name"
+      "language_id": "tile.sand.red.name"
     },
     "minecraft:red_sandstone": {
       "text": "Red Sandstone",
       "texture": "minecraft_red_sandstone",
-      "language_id": "tile.cobblestone_wall.red_sandstone.name"
+      "language_id": "tile.red_sandstone.name"
     },
     "minecraft:red_sandstone_slab": {
       "text": "Red Sandstone Slab",
