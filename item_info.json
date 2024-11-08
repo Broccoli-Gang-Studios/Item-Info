@@ -157,7 +157,7 @@
     "minecraft:anvil": {
       "text": "Anvil",
       "texture": "minecraft_anvil",
-      "language_id": "tile.anvil.intact.name"
+      "language_id": "tile.anvil.name"
     },
     "minecraft:apple": {
       "text": "Apple",
@@ -842,7 +842,7 @@
     "minecraft:brush": {
       "text": "Brush",
       "texture": "minecraft_brush",
-      "language_id": "hudScreen.tooltip.brush"
+      "language_id": "item.brush.name"
     },
     "minecraft:bubble_coral": {
       "text": "Bubble Coral",
@@ -1167,7 +1167,7 @@
     "minecraft:clay": {
       "text": "Clay",
       "texture": "minecraft_clay",
-      "language_id": "item.tropicalBodyClayfishSingle.name"
+      "language_id": "tile.clay.name"
     },
     "minecraft:clay_ball": {
       "text": "Clay Ball",
@@ -1227,7 +1227,7 @@
     "minecraft:cobblestone": {
       "text": "Cobblestone",
       "texture": "minecraft_cobblestone",
-      "language_id": "tile.cobblestone_wall.mossy.name"
+      "language_id": "tile.cobblestone.name"
     },
     "minecraft:cobblestone_slab": {
       "text": "Cobblestone Slab",
@@ -1287,7 +1287,7 @@
     "minecraft:conduit": {
       "text": "Conduit",
       "texture": "minecraft_conduit",
-      "language_id": "potion.conduitPower"
+      "language_id": "tile.conduit.name"
     },
     "minecraft:cooked_beef": {
       "text": "Steak",
@@ -1902,7 +1902,7 @@
     "minecraft:diamond": {
       "text": "Diamond",
       "texture": "minecraft_diamond",
-      "language_id": "item.diamond_boots.name"
+      "language_id": "item.diamond.name"
     },
     "minecraft:diamond_axe": {
       "text": "Diamond Axe",
@@ -1967,7 +1967,7 @@
     "minecraft:diorite": {
       "text": "Diorite",
       "texture": "minecraft_diorite",
-      "language_id": "tile.cobblestone_wall.diorite.name"
+      "language_id": "tile.stone.diorite.name"
     },
     "minecraft:diorite_slab": {
       "text": "Diorite Slab",
@@ -1987,7 +1987,7 @@
     "minecraft:dirt": {
       "text": "Dirt",
       "texture": "minecraft_dirt",
-      "language_id": "tile.dirt_with_roots.name"
+      "language_id": "tile.dirt.default.name"
     },
     "minecraft:dirt_with_roots": {
       "text": "Rooted Dirt",
@@ -2137,7 +2137,7 @@
     "minecraft:end_stone": {
       "text": "End Stone",
       "texture": "minecraft_end_stone",
-      "language_id": "tile.cobblestone_wall.end_brick.name"
+      "language_id": "tile.end_stone.name"
     },
     "minecraft:end_stone_brick_slab": {
       "text": "End Stone Brick Slab",
@@ -2275,9 +2275,9 @@
       "language_id": "item.field_masoned_banner_pattern.name"
     },
     "minecraft:filled_map": {
-      "text": "Empty Map",
+      "text": "Map",
       "texture": "minecraft_filled_map",
-      "language_id": "item.emptyMap.name"
+      "language_id": "item.map.name"
     },
     "minecraft:fire_charge": {
       "text": "Fire Charge",
@@ -2412,7 +2412,7 @@
     "minecraft:glass": {
       "text": "Glass",
       "texture": "minecraft_glass",
-      "language_id": "item.glass_bottle.name"
+      "language_id": "tile.glass.name"
     },
     "minecraft:glass_bottle": {
       "text": "Glass Bottle",
@@ -2422,7 +2422,7 @@
     "minecraft:glass_pane": {
       "text": "Glass Pane",
       "texture": "minecraft_glass_pane",
-      "language_id": "tile.stained_glass_pane.white.name"
+      "language_id": "tile.glass_pane.name"
     },
     "minecraft:glistering_melon_slice": {
       "text": "Glistering Melon Slice",
@@ -2567,7 +2567,7 @@
     "minecraft:granite": {
       "text": "Granite",
       "texture": "minecraft_granite",
-      "language_id": "tile.cobblestone_wall.granite.name"
+      "language_id": "tile.stone.granite.name"
     },
     "minecraft:granite_slab": {
       "text": "Granite Slab",
@@ -2597,7 +2597,7 @@
     "minecraft:gravel": {
       "text": "Gravel",
       "texture": "minecraft_gravel",
-      "language_id": "tile.suspicious_gravel.name"
+      "language_id": "tile.gravel.name"
     },
     "minecraft:gray_candle": {
       "text": "Gray Candle",
@@ -2877,7 +2877,7 @@
     "minecraft:infested_stone": {
       "text": "Infested Stone",
       "texture": "minecraft_infested_stone",
-      "language_id": "tile.monster_egg.brick.name"
+      "language_id": "tile.monster_egg.name"
     },
     "minecraft:infested_stone_bricks": {
       "text": "Infested Stone Bricks",
@@ -3087,7 +3087,7 @@
     "minecraft:lantern": {
       "text": "Lantern",
       "texture": "minecraft_lantern",
-      "language_id": "tile.lit_pumpkin.name"
+      "language_id": "tile.lantern.name"
     },
     "minecraft:lapis_block": {
       "text": "Block of Lapis Lazuli",
@@ -3167,82 +3167,82 @@
     "minecraft:light_block_0": {
       "text": "Light",
       "texture": "minecraft_light_block_0",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_1": {
       "text": "Light",
       "texture": "minecraft_light_block_1",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_10": {
       "text": "Light",
       "texture": "minecraft_light_block_10",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_11": {
       "text": "Light",
       "texture": "minecraft_light_block_11",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_12": {
       "text": "Light",
       "texture": "minecraft_light_block_12",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_13": {
       "text": "Light",
       "texture": "minecraft_light_block_13",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_14": {
       "text": "Light",
       "texture": "minecraft_light_block_14",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_15": {
       "text": "Light",
       "texture": "minecraft_light_block_15",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_2": {
       "text": "Light",
       "texture": "minecraft_light_block_2",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_3": {
       "text": "Light",
       "texture": "minecraft_light_block_3",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_4": {
       "text": "Light",
       "texture": "minecraft_light_block_4",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_5": {
       "text": "Light",
       "texture": "minecraft_light_block_5",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_6": {
       "text": "Light",
       "texture": "minecraft_light_block_6",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_7": {
       "text": "Light",
       "texture": "minecraft_light_block_7",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_8": {
       "text": "Light",
       "texture": "minecraft_light_block_8",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_block_9": {
       "text": "Light",
       "texture": "minecraft_light_block_9",
-      "language_id": "item.banner.border.lightBlue"
+      "language_id": "tile.light_block.name"
     },
     "minecraft:light_blue_candle": {
       "text": "Light Blue Candle",
@@ -3442,7 +3442,7 @@
     "minecraft:lodestone": {
       "text": "Lodestone",
       "texture": "minecraft_lodestone",
-      "language_id": "item.lodestonecompass.name"
+      "language_id": "tile.lodestone.name"
     },
     "minecraft:lodestone_compass": {
       "text": "Lodestone Compass",
@@ -4792,7 +4792,7 @@
     "minecraft:rail": {
       "text": "Rail",
       "texture": "minecraft_rail",
-      "language_id": "tile.activator_rail.name"
+      "language_id": "tile.rail.name"
     },
     "minecraft:raiser_armor_trim_smithing_template": {
       "text": "Raiser Armor Trim",
@@ -5037,12 +5037,12 @@
     "minecraft:sand": {
       "text": "Sand",
       "texture": "minecraft_sand",
-      "language_id": "tile.suspicious_sand.name"
+      "language_id": "tile.sand.name"
     },
     "minecraft:sandstone": {
       "text": "Sandstone",
       "texture": "minecraft_sandstone",
-      "language_id": "tile.cobblestone_wall.sandstone.name"
+      "language_id": "tile.sandstone.name"
     },
     "minecraft:sandstone_slab": {
       "text": "Sandstone Slab",
@@ -5072,7 +5072,7 @@
     "minecraft:sculk": {
       "text": "Sculk",
       "texture": "minecraft_sculk",
-      "language_id": "tile.sculk_sensor.name"
+      "language_id": "tile.sculk.name"
     },
     "minecraft:sculk_catalyst": {
       "text": "Sculk Catalyst",
@@ -5492,7 +5492,7 @@
     "minecraft:stick": {
       "text": "Stick",
       "texture": "minecraft_stick",
-      "language_id": "item.carrotOnAStick.name"
+      "language_id": "item.stick.name"
     },
     "minecraft:sticky_piston": {
       "text": "Sticky Piston",
@@ -5502,7 +5502,7 @@
     "minecraft:stone": {
       "text": "Stone",
       "texture": "minecraft_stone",
-      "language_id": "item.stone_axe.name"
+      "language_id": "tile.stone.stone.name"
     },
     "minecraft:stone_axe": {
       "text": "Stone Axe",
@@ -5702,7 +5702,7 @@
     "minecraft:sugar": {
       "text": "Sugar",
       "texture": "minecraft_sugar",
-      "language_id": "item.reeds.name"
+      "language_id": "item.sugar.name"
     },
     "minecraft:sugar_cane": {
       "text": "Sugar Cane",
@@ -5767,7 +5767,7 @@
     "minecraft:tnt": {
       "text": "TNT",
       "texture": "minecraft_tnt",
-      "language_id": "item.tnt_minecart.name"
+      "language_id": "tile.tnt.name"
     },
     "minecraft:tnt_minecart": {
       "text": "Minecart with TNT",
@@ -5777,7 +5777,7 @@
     "minecraft:torch": {
       "text": "Torch",
       "texture": "minecraft_torch",
-      "language_id": "item.torchflower_seeds.name"
+      "language_id": "tile.torch.name"
     },
     "minecraft:torchflower": {
       "text": "Torchflower",
@@ -5862,7 +5862,7 @@
     "minecraft:tuff": {
       "text": "Tuff",
       "texture": "minecraft_tuff",
-      "language_id": "tile.chiseled_tuff.name"
+      "language_id": "tile.tuff.name"
     },
     "minecraft:tuff_brick_slab": {
       "text": "Tuff Brick Slab",
